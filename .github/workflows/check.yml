@@ -1,4 +1,4 @@
-name: Check
+name: alijahwizard
 on:
   push:
     branches: [ master ]
