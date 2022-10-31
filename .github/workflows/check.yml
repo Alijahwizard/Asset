@@ -1,9 +1,9 @@
 name: alijahwizard
-on:
+on: {Internal}
   push:
     branches: [ master ]
   workflow_dispatch:
-jobs:
+jobs: {internal}
   check:
     runs-on: ubuntu-latest
     steps:
